@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--WWW.MGCOIN.BIZ-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://mgcoin.biz/</loc>
+	<lastmod>2025-01-17T00:31:33+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://mgcoin.biz/index.html</loc>
+	<lastmod>2025-01-17T00:31:33+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://mgcoin.biz/whitepaper.pdf</loc>
+	<lastmod>2025-01-17T00:31:33+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>

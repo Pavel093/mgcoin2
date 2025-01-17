@@ -1,0 +1,7 @@
+# robots.txt for mgcoin.biz
+
+User-agent: *
+Allow: /
+
+# Specify the correct path to your sitemap:
+Sitemap: https://mgcoin.biz/sitemap.xml
